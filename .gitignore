@@ -9,3 +9,6 @@ __pycache__/
 # Local datasets and generated output; share permitted artifacts deliberately
 starter/data/
 starter/results/
+
+# Download from the official student affairs portal; the PDF exceeds GitHub's file limit.
+data/so_tay_sinh_vien_2026.pdf

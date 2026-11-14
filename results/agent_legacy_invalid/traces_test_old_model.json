@@ -1,0 +1,177 @@
+[
+  {
+    "query_id": "q16",
+    "split": "test",
+    "question": "Khoa Ngoại ngữ có tổng cộng bao nhiêu cán bộ và có bao nhiêu Tiến sĩ?",
+    "status": "error",
+    "answer": "Error: RuntimeError",
+    "citations": [],
+    "events": [
+      {
+        "event": "error",
+        "error_type": "RuntimeError"
+      }
+    ],
+    "elapsed_ms": 78.67,
+    "controller": "GeminiController",
+    "model": "gemini-2.0-flash",
+    "usage": {
+      "prompt_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost_usd": null,
+    "provider_error_type": "ClientError",
+    "provider_error_code": 401
+  },
+  {
+    "query_id": "q17",
+    "split": "test",
+    "question": "Khi lái xe cơ giới như xe máy hoặc ô tô vào khuôn viên trường, sinh viên phải tuân thủ điều gì?",
+    "status": "error",
+    "answer": "Error: RuntimeError",
+    "citations": [],
+    "events": [
+      {
+        "event": "error",
+        "error_type": "RuntimeError"
+      }
+    ],
+    "elapsed_ms": 82.3,
+    "controller": "GeminiController",
+    "model": "gemini-2.0-flash",
+    "usage": {
+      "prompt_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost_usd": null,
+    "provider_error_type": "ClientError",
+    "provider_error_code": 401
+  },
+  {
+    "query_id": "q18",
+    "split": "test",
+    "question": "Mức điểm rèn luyện trong khoảng nào thì được phân loại rèn luyện đạt loại Xuất sắc và loại Tốt?",
+    "status": "error",
+    "answer": "Error: RuntimeError",
+    "citations": [],
+    "events": [
+      {
+        "event": "error",
+        "error_type": "RuntimeError"
+      }
+    ],
+    "elapsed_ms": 63.12,
+    "controller": "GeminiController",
+    "model": "gemini-2.0-flash",
+    "usage": {
+      "prompt_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost_usd": null,
+    "provider_error_type": "ClientError",
+    "provider_error_code": 401
+  },
+  {
+    "query_id": "q19",
+    "split": "test",
+    "question": "Trong mục học bổng và an sinh xã hội, Học bổng Trần Đại Nghĩa được xét và cấp với tần suất như thế nào?",
+    "status": "error",
+    "answer": "Error: RuntimeError",
+    "citations": [],
+    "events": [
+      {
+        "event": "error",
+        "error_type": "RuntimeError"
+      }
+    ],
+    "elapsed_ms": 83.95,
+    "controller": "GeminiController",
+    "model": "gemini-2.0-flash",
+    "usage": {
+      "prompt_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost_usd": null,
+    "provider_error_type": "ClientError",
+    "provider_error_code": 401
+  },
+  {
+    "query_id": "q20",
+    "split": "test",
+    "question": "Việc cấp lại sổ đoàn, chứng nhận đoàn viên và ký thanh toán ra trường cho sinh viên được thực hiện tại đâu?",
+    "status": "error",
+    "answer": "Error: RuntimeError",
+    "citations": [],
+    "events": [
+      {
+        "event": "error",
+        "error_type": "RuntimeError"
+      }
+    ],
+    "elapsed_ms": 62.98,
+    "controller": "GeminiController",
+    "model": "gemini-2.0-flash",
+    "usage": {
+      "prompt_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost_usd": null,
+    "provider_error_type": "ClientError",
+    "provider_error_code": 401
+  },
+  {
+    "query_id": "q_unans_test_01",
+    "split": "test",
+    "question": "Điều kiện và thủ tục để sinh viên được cấp học bổng du học toàn phần tại Đại học Tokyo Nhật Bản là gì?",
+    "status": "error",
+    "answer": "Error: RuntimeError",
+    "citations": [],
+    "events": [
+      {
+        "event": "error",
+        "error_type": "RuntimeError"
+      }
+    ],
+    "elapsed_ms": 63.28,
+    "controller": "GeminiController",
+    "model": "gemini-2.0-flash",
+    "usage": {
+      "prompt_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost_usd": null,
+    "provider_error_type": "ClientError",
+    "provider_error_code": 401
+  },
+  {
+    "query_id": "q_unans_test_02",
+    "split": "test",
+    "question": "Quy trình thủ tục đăng ký xin cấp lại biển số xe máy bị mất tại nhà gửi xe trường Bách khoa gồm những bước nào?",
+    "status": "error",
+    "answer": "Error: RuntimeError",
+    "citations": [],
+    "events": [
+      {
+        "event": "error",
+        "error_type": "RuntimeError"
+      }
+    ],
+    "elapsed_ms": 68.21,
+    "controller": "GeminiController",
+    "model": "gemini-2.0-flash",
+    "usage": {
+      "prompt_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost_usd": null,
+    "provider_error_type": "ClientError",
+    "provider_error_code": 401
+  }
+]

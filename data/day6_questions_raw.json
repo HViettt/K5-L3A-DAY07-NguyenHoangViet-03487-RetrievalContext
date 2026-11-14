@@ -1,0 +1,228 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Trường Đại học Bách khoa Hà Nội được thành lập theo nghị định nào và vào ngày tháng năm nào?",
+    "expected_answer": "Nghị định 147/NĐ ngày 6/3/1956 của Bộ trưởng Bộ Giáo dục Nguyễn Văn Huyên.",
+    "gold_source_id": "hust-student-handbook-2026",
+    "gold_page": 2,
+    "evidence_quote": "Ngày 6/3/1956, Bộ trưởng Bộ Giáo dục Nguyễn Văn Huyên đã ký nghị định 147/NĐ về việc thành lập trường Đại học Chuyên nghiệp Bách khoa",
+    "filter": null
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Lễ khai giảng khóa 1 của trường Đại học Bách khoa Hà Nội có bao nhiêu sinh viên trúng tuyển?",
+    "expected_answer": "848 sinh viên vào 14 ngành của 4 liên khoa.",
+    "gold_source_id": "hust-student-handbook-2026",
+    "gold_page": 2,
+    "evidence_quote": "Lễ khai giảng khóa I” cho 848 sinh viên vào 14 ngành của 04 liên khoa",
+    "filter": null
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Sinh viên đến trường cần lưu ý mang theo vật dụng gì và có yêu cầu thế nào về trang phục?",
+    "expected_answer": "Phải mang theo thẻ sinh viên, trang phục gọn gàng phù hợp với văn hóa Việt Nam và sự nghiêm túc của trường.",
+    "gold_source_id": "hust-student-handbook-2026",
+    "gold_page": 5,
+    "evidence_quote": "Sinh viên đến trường phải mang theo thẻ sinh viên, trang phục gọn gàng phù hợp với văn hóa Việt Nam và sự nghiêm túc của trường đại học.",
+    "filter": null
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Những hành vi nào liên quan đến gian lận trong học tập và thi cử bị nhà trường nghiêm cấm?",
+    "expected_answer": "Quay cóp, sử dụng tài liệu/thiết bị không được phép, sử dụng trái phép phần mềm/Internet, thi hộ, nhờ thi hộ.",
+    "gold_source_id": "hust-student-handbook-2026",
+    "gold_page": 6,
+    "evidence_quote": "Gian lận trong học tập, kiểm tra, thi cử như quay cóp, sử dụng tài liệu hoặc thiết bị không được phép, sử dụng trái phép công cụ, phần mềm, Internet để làm bài; thi hộ, nhờ thi hộ",
+    "filter": null
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Chương trình đào tạo tích hợp hệ chính quy của trường được tổ chức theo mô hình nào và tổng thời gian đào tạo là bao lâu?",
+    "expected_answer": "Mô hình 4+1,5 với tổng thời gian 5,5 năm đối với người học cùng ngành.",
+    "gold_source_id": "hust-student-handbook-2026",
+    "gold_page": 7,
+    "evidence_quote": "Các chương trình đào tạo được tổ chức theo mô hình 4+1,5 (tổng thời gian đào tạo là 5,5 năm đối với người học cùng ngành và theo tiến độ chuẩn).",
+    "filter": null
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "type": "filter_test",
+    "question": "Theo quy định đánh giá rèn luyện, kết quả rèn luyện được sử dụng cho những mục đích nào?",
+    "expected_answer": "Sử dụng trong việc xét duyệt học bổng, xét khen thưởng, xét tham gia các hoạt động giao lưu, trao đổi sinh viên quốc tế.",
+    "gold_source_id": "hust-student-handbook-2026",
+    "gold_page": 10,
+    "evidence_quote": "Kết quả đánh giá rèn luyện được sử dụng trong việc xét duyệt học bổng, xét khen thưởng, xét tham gia các hoạt động giao lưu, trao đổi sinh viên quốc tế.",
+    "filter": {
+      "category": "diem_ren_luyen"
+    }
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "type": "dieu_kien",
+    "question": "Sinh viên không thực hiện tự đánh giá rèn luyện và không có lý do chính đáng sẽ bị xếp loại gì?",
+    "expected_answer": "Được xem xét xếp loại rèn luyện ở mức yếu trong học kỳ tương ứng.",
+    "gold_source_id": "hust-student-handbook-2026",
+    "gold_page": 10,
+    "evidence_quote": "Sinh viên không thực hiện tự đánh giá kết quả rèn luyện, không cung cấp minh chứng và không có lý do chính đáng sau khi đã được thông báo, nhắc nhở thì được xem xét xếp loại rèn luyện ở mức yếu trong học kỳ tương ứng.",
+    "filter": null
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Tiêu chí 1 về Chấp hành pháp luật và nội quy quy chế nhà trường trong đánh giá rèn luyện có điểm tối đa là bao nhiêu?",
+    "expected_answer": "Tối đa 25 điểm.",
+    "gold_source_id": "hust-student-handbook-2026",
+    "gold_page": 11,
+    "evidence_quote": "TC1 Chấp hành pháp luật và nội quy, quy chế của nhà trường (tối đa 25 điểm) 25",
+    "filter": null
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Theo quy chế có bao nhiêu hình thức xử lý kỷ luật sinh viên?",
+    "expected_answer": "Có 4 hình thức: Khiển trách, Cảnh cáo, Đình chỉ học tập có thời hạn, Buộc thôi học.",
+    "gold_source_id": "hust-student-handbook-2026",
+    "gold_page": 12,
+    "evidence_quote": "Theo Thông tư số 40/2026/TT-BGDĐT, có 4 hình thức xử lý kỷ luật sinh viên gồm: 1. Khiển trách; 2. Cảnh cáo; 3. Đình chỉ học tập có thời hạn; 4. Buộc thôi học",
+    "filter": null
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Học bổng Trần Đại Nghĩa được xét cấp cho đối tượng sinh viên nào?",
+    "expected_answer": "Sinh viên có hoàn cảnh kinh tế gia đình đặc biệt khó khăn (hộ nghèo, hộ cận nghèo).",
+    "gold_source_id": "hust-student-handbook-2026",
+    "gold_page": 17,
+    "evidence_quote": "Học bổng Trần Đại Nghĩa là Học bổng của ĐHBK Hà Nội xét cấp cho sinh viên có hoàn cảnh kinh tế gia đình đặc biệt khó khăn (hộ nghèo, hộ cận nghèo hoặc hộ có hoàn cảnh kinh tế đặc biệt khó khăn khác), có kết quả học tập và rèn luyện tốt.",
+    "filter": null
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Học bổng Trần Đại Nghĩa có những mức hỗ trợ học phí nào?",
+    "expected_answer": "Có 2 mức tương ứng với 50% và 100% học phí phải đóng.",
+    "gold_source_id": "hust-student-handbook-2026",
+    "gold_page": 17,
+    "evidence_quote": "Học bổng Trần Đại Nghĩa có 2 mức tương ứng với 50% và 100% học phí sinh viên phải đóng trong học kỳ xét, cấp học bổng.",
+    "filter": null
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "type": "ngoai_le",
+    "question": "Sinh viên bị kỷ luật từ mức nào trở lên thì không được xét cấp học bổng Trần Đại Nghĩa?",
+    "expected_answer": "Sinh viên đang trong thời gian bị kỷ luật từ mức cảnh cáo trở lên.",
+    "gold_source_id": "hust-student-handbook-2026",
+    "gold_page": 17,
+    "evidence_quote": "Không xét, cấp học bổng Trần Đại Nghĩa cho những sinh viên đang trong thời gian bị kỷ luật từ mức cảnh cáo trở lên.",
+    "filter": null
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Theo thống kê của Dự án An sinh, tỷ lệ sinh viên có nguyện vọng hoặc từng làm gia sư là bao nhiêu?",
+    "expected_answer": "Trên 30% sinh viên.",
+    "gold_source_id": "hust-student-handbook-2026",
+    "gold_page": 21,
+    "evidence_quote": "Theo thống kê, có trên 30% sinh viên ĐHB - KHN đã từng hoặc có nguyện vọng làm gia sư các môn như Toán, Lý, Hóa, Tiếng Anh, Tin học,....",
+    "filter": null
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Hệ thống quản trị đại học trực tuyến và ứng dụng dành cho sinh viên, giảng viên có tên là gì và triển khai từ năm nào?",
+    "expected_answer": "Hệ thống eHUST (https://e.hust.edu.vn) triển khai từ năm học 2021-2022.",
+    "gold_source_id": "hust-student-handbook-2026",
+    "gold_page": 22,
+    "evidence_quote": "Từ năm học 2021-2022, Đại học Bách khoa Hà Nội triển khai đưa web Hệ thống quản trị đại học trực tuyến https:/ /e.hust.edu.vn (1 cổng) và app eHUST vào sử dụng.",
+    "filter": null
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "type": "filter_test",
+    "question": "Trường Điện - Điện tử gồm bao nhiêu khoa trực thuộc và có bao nhiêu cán bộ giảng viên?",
+    "expected_answer": "Gồm 4 khoa, 1 trung tâm đào tạo thực hành & 1 viện nghiên cứu; 235 cán bộ giảng viên (trong đó có 3 Giáo sư).",
+    "gold_source_id": "hust-student-handbook-2026",
+    "gold_page": 31,
+    "evidence_quote": "Bao gồm 4 khoa, 1 trung tâm đào tạo thực hành & 1 viện nghiên cứu. 235 CB giảng viên, trong đó có 3 Giáo sư, 52 Phó giáo sư, 106 Tiến sĩ.",
+    "filter": {
+      "category": "gioi_thieu_vien_khoa"
+    }
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "Khoa Ngoại ngữ có tổng cộng bao nhiêu cán bộ và có bao nhiêu Tiến sĩ?",
+    "expected_answer": "Có 96 cán bộ, trong đó có 03 Tiến sỹ, 08 Nghiên cứu sinh, 62 Thạc sỹ, 02 giáo viên nước ngoài.",
+    "gold_source_id": "hust-student-handbook-2026",
+    "gold_page": 35,
+    "evidence_quote": "Đội ngũ cán bộ hiện nay gồm 96 cán bộ, trong đó có 03 Tiến sỹ, 08 Nghiên cứu sinh, 62 Thạc sỹ, 02 giáo viên nước ngoài, 20 Giảng viên chính, 13 cán bộ đang tham gia các khoá đào tạo Thạc sỹ và Tiến sỹ ở nước ngoài.",
+    "filter": null
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "type": "dien_dat_lai",
+    "question": "Khi lái xe cơ giới như xe máy hoặc ô tô vào khuôn viên trường, sinh viên phải tuân thủ điều gì?",
+    "expected_answer": "Phải giảm tốc độ, thận trọng quan sát xung quanh và gửi xe đúng nơi quy định.",
+    "gold_source_id": "hust-student-handbook-2026",
+    "gold_page": 5,
+    "evidence_quote": "Trường hợp đi xe đạp, xe máy, ô tô vào trường phải lưu ý giảm tốc độ, thận trọng quan sát xung quanh và gửi xe đúng nơi quy định.",
+    "filter": null
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "type": "dieu_kien",
+    "question": "Mức điểm rèn luyện trong khoảng nào thì được phân loại rèn luyện đạt loại Xuất sắc và loại Tốt?",
+    "expected_answer": "Từ 90 đến 100 điểm: Xuất sắc; từ 80 đến 89 điểm: Tốt.",
+    "gold_source_id": "hust-student-handbook-2026",
+    "gold_page": 10,
+    "evidence_quote": "Từ 90 điểm đến 100 điểm: loại xuất sắc; - Từ 80 điểm đến 89 điểm: loại tốt;",
+    "filter": null
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "type": "filter_test",
+    "question": "Trong mục học bổng và an sinh xã hội, Học bổng Trần Đại Nghĩa được xét và cấp với tần suất như thế nào?",
+    "expected_answer": "Được xét, cấp theo từng học kỳ, mỗi học kỳ xét 01 lần vào đầu học kỳ.",
+    "gold_source_id": "hust-student-handbook-2026",
+    "gold_page": 17,
+    "evidence_quote": "Học bổng Trần Đại Nghĩa được xét, cấp theo học kỳ, mỗi học kỳ xét 01 lần vào đầu học kỳ.",
+    "filter": {
+      "category": "hoc_bong_an_sinh"
+    }
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "Việc cấp lại sổ đoàn, chứng nhận đoàn viên và ký thanh toán ra trường cho sinh viên được thực hiện tại đâu?",
+    "expected_answer": "Được thực hiện tại Văn phòng Đoàn Đại học.",
+    "gold_source_id": "hust-student-handbook-2026",
+    "gold_page": 27,
+    "evidence_quote": "Phát triển Đoàn, cấp lại sổ đoàn, chứng nhận đoàn viên, ký thanh toán ra trường với Đoàn viên của trường tại Văn phòng Đoàn Đại học.",
+    "filter": null
+  }
+]

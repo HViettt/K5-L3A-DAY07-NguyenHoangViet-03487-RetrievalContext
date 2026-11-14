@@ -1,0 +1,174 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Trường Đại học Bách khoa Hà Nội được thành lập theo nghị định nào và vào ngày tháng năm nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Lễ khai giảng khóa 1 của trường Đại học Bách khoa Hà Nội có bao nhiêu sinh viên trúng tuyển?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Sinh viên đến trường cần lưu ý mang theo vật dụng gì và có yêu cầu thế nào về trang phục?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Những hành vi nào liên quan đến gian lận trong học tập và thi cử bị nhà trường nghiêm cấm?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Chương trình đào tạo tích hợp hệ chính quy của trường được tổ chức theo mô hình nào và tổng thời gian đào tạo là bao lâu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Theo quy định đánh giá rèn luyện, kết quả rèn luyện được sử dụng cho những mục đích nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Sinh viên không thực hiện tự đánh giá rèn luyện và không có lý do chính đáng sẽ bị xếp loại gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Tiêu chí 1 về Chấp hành pháp luật và nội quy quy chế nhà trường trong đánh giá rèn luyện có điểm tối đa là bao nhiêu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Theo quy chế có bao nhiêu hình thức xử lý kỷ luật sinh viên?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Học bổng Trần Đại Nghĩa được xét cấp cho đối tượng sinh viên nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Học bổng Trần Đại Nghĩa có những mức hỗ trợ học phí nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Sinh viên bị kỷ luật từ mức nào trở lên thì không được xét cấp học bổng Trần Đại Nghĩa?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Theo thống kê của Dự án An sinh, tỷ lệ sinh viên có nguyện vọng hoặc từng làm gia sư là bao nhiêu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Hệ thống quản trị đại học trực tuyến và ứng dụng dành cho sinh viên, giảng viên có tên là gì và triển khai từ năm nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Trường Điện - Điện tử gồm bao nhiêu khoa trực thuộc và có bao nhiêu cán bộ giảng viên?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Khoa Ngoại ngữ có tổng cộng bao nhiêu cán bộ và có bao nhiêu Tiến sĩ?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Khi lái xe cơ giới như xe máy hoặc ô tô vào khuôn viên trường, sinh viên phải tuân thủ điều gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Mức điểm rèn luyện trong khoảng nào thì được phân loại rèn luyện đạt loại Xuất sắc và loại Tốt?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Trong mục học bổng và an sinh xã hội, Học bổng Trần Đại Nghĩa được xét và cấp với tần suất như thế nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Việc cấp lại sổ đoàn, chứng nhận đoàn viên và ký thanh toán ra trường cho sinh viên được thực hiện tại đâu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_unans_dev_01",
+    "split": "dev",
+    "question": "Mức học phí của chương trình tiên tiến năm học 2026-2027 là bao nhiêu triệu đồng một tín chỉ?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Trong sổ tay sinh viên 2026 chỉ có thông tin giới thiệu chung về chương trình tích hợp và học bổng, không có bảng biểu mức học phí cụ thể theo tín chỉ cho năm học 2026-2027."
+  },
+  {
+    "id": "q_unans_dev_02",
+    "split": "dev",
+    "question": "Sinh viên có được phép nuôi hoặc mang vật nuôi (chó, mèo) vào trong phòng ký túc xá không?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Trong sổ tay sinh viên 2026 không có điều khoản quy chế chi tiết liên quan đến việc nuôi hoặc mang thú cưng/vật nuôi vào ký túc xá."
+  },
+  {
+    "id": "q_unans_test_01",
+    "split": "test",
+    "question": "Điều kiện và thủ tục để sinh viên được cấp học bổng du học toàn phần tại Đại học Tokyo Nhật Bản là gì?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Trong sổ tay sinh viên chỉ đề cập đến Học bổng Trần Đại Nghĩa và khuyến khích học tập nội bộ, không có thông tin học bổng du học Đại học Tokyo Nhật Bản."
+  },
+  {
+    "id": "q_unans_test_02",
+    "split": "test",
+    "question": "Quy trình thủ tục đăng ký xin cấp lại biển số xe máy bị mất tại nhà gửi xe trường Bách khoa gồm những bước nào?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Trong sổ tay sinh viên không có nội dung hướng dẫn thủ tục giải quyết việc mất hay cấp lại biển số xe máy tại bãi đỗ xe."
+  }
+]

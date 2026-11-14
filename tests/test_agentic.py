@@ -1,9 +1,13 @@
 """Offline behavioral checks only; fake adapters do not measure model quality."""
+import json
 import sys
+import tempfile
 import unittest
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'starter'))
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from agentic import run_agent
+from src.agent import run_agent_benchmark
 
 CHUNK = {'id': 'c1', 'text': 'Hoàn tiền trong 7 ngày.', 'source_id': 'doc',
          'source': 'doc.pdf', 'page': 1, 'score': 0.8, 'metadata': {}}
@@ -70,5 +74,26 @@ class AgentTests(unittest.TestCase):
             def search(self, query, *, filters, top_k): raise ConnectionError('database unavailable')
         with self.assertRaises(ConnectionError):
             run_agent('q', Controller([{'action':'search','query':'q'}]), Broken())
+
+    def test_benchmark_can_select_only_failed_query_ids(self):
+        class OneSearchController:
+            def decide(self, question, history):
+                if not history: return {'action':'search','query':question}
+                return {'action':'answer','answer':'7 ngày [c1]','citations':['c1']}
+        with tempfile.TemporaryDirectory() as d:
+            root = Path(d)
+            cases = [
+                {'id':'keep','split':'dev','question':'keep','answerable':True},
+                {'id':'retry','split':'dev','question':'retry','answerable':True},
+                {'id':'other','split':'test','question':'other','answerable':True},
+            ]
+            cases_path = root/'cases.json'
+            cases_path.write_text(json.dumps(cases),encoding='utf-8')
+            traces = run_agent_benchmark(
+                cases_path, OneSearchController(), Retriever([CHUNK]), split='dev',
+                output_traces_path=root/'traces.json', query_ids={'retry'},
+            )
+            self.assertEqual([t['query_id'] for t in traces], ['retry'])
+            self.assertEqual(traces[0]['status'], 'answered')
 
 if __name__ == '__main__': unittest.main()

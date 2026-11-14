@@ -1,0 +1,125 @@
+[
+  {
+    "query_id": "q16",
+    "configuration": "selected_hybrid_rrf_budget1800",
+    "context_grade": 2,
+    "evidence_in_context": true,
+    "evidence_in_top3": true,
+    "context_chunk_ids": [
+      "hust-student-handbook-2026_p35_para_0",
+      "hust-student-handbook-2026_p31_para_0"
+    ],
+    "review_status": "assistant_reviewed_against_gold_and_context",
+    "review_note": "Context contains the gold source/page/evidence needed to answer."
+  },
+  {
+    "query_id": "q17",
+    "configuration": "selected_hybrid_rrf_budget1800",
+    "context_grade": 2,
+    "evidence_in_context": true,
+    "evidence_in_top3": true,
+    "context_chunk_ids": [
+      "hust-student-handbook-2026_p5_para_0",
+      "hust-student-handbook-2026_p38_para_2"
+    ],
+    "review_status": "assistant_reviewed_against_gold_and_context",
+    "review_note": "Context contains the gold source/page/evidence needed to answer."
+  },
+  {
+    "query_id": "q18",
+    "configuration": "selected_hybrid_rrf_budget1800",
+    "context_grade": 2,
+    "evidence_in_context": true,
+    "evidence_in_top3": true,
+    "context_chunk_ids": [
+      "hust-student-handbook-2026_p10_para_1",
+      "hust-student-handbook-2026_p11_para_9"
+    ],
+    "review_status": "assistant_reviewed_against_gold_and_context",
+    "review_note": "Context contains the gold source/page/evidence needed to answer."
+  },
+  {
+    "query_id": "q19",
+    "configuration": "selected_hybrid_rrf_budget1800",
+    "context_grade": 2,
+    "evidence_in_context": true,
+    "evidence_in_top3": true,
+    "context_chunk_ids": [
+      "hust-student-handbook-2026_p17_para_0",
+      "hust-student-handbook-2026_p17_para_1"
+    ],
+    "review_status": "assistant_reviewed_against_gold_and_context",
+    "review_note": "Context contains the gold source/page/evidence needed to answer."
+  },
+  {
+    "query_id": "q20",
+    "configuration": "selected_hybrid_rrf_budget1800",
+    "context_grade": 2,
+    "evidence_in_context": true,
+    "evidence_in_top3": true,
+    "context_chunk_ids": [
+      "hust-student-handbook-2026_p27_para_0",
+      "hust-student-handbook-2026_p14_para_4"
+    ],
+    "review_status": "assistant_reviewed_against_gold_and_context",
+    "review_note": "Context contains the gold source/page/evidence needed to answer."
+  },
+  {
+    "query_id": "q16",
+    "configuration": "baseline_bm25_budget800",
+    "context_grade": 0,
+    "evidence_in_context": false,
+    "evidence_in_top3": true,
+    "context_chunk_ids": [
+      "hust-student-handbook-2026_p31_para_0"
+    ],
+    "review_status": "assistant_reviewed_against_gold_and_context",
+    "review_note": "Context contains no gold evidence; although the retrieved top-3 includes gold evidence, the 800-character packing budget excluded it."
+  },
+  {
+    "query_id": "q17",
+    "configuration": "baseline_bm25_budget800",
+    "context_grade": 0,
+    "evidence_in_context": false,
+    "evidence_in_top3": true,
+    "context_chunk_ids": [
+      "hust-student-handbook-2026_p38_para_3"
+    ],
+    "review_status": "assistant_reviewed_against_gold_and_context",
+    "review_note": "Context contains no gold evidence; although the retrieved top-3 includes gold evidence, the 800-character packing budget excluded it."
+  },
+  {
+    "query_id": "q18",
+    "configuration": "baseline_bm25_budget800",
+    "context_grade": 0,
+    "evidence_in_context": false,
+    "evidence_in_top3": true,
+    "context_chunk_ids": [
+      "hust-student-handbook-2026_p16_para_0"
+    ],
+    "review_status": "assistant_reviewed_against_gold_and_context",
+    "review_note": "Context contains no gold evidence; although the retrieved top-3 includes gold evidence, the 800-character packing budget excluded it."
+  },
+  {
+    "query_id": "q19",
+    "configuration": "baseline_bm25_budget800",
+    "context_grade": 0,
+    "evidence_in_context": false,
+    "evidence_in_top3": true,
+    "context_chunk_ids": [],
+    "review_status": "assistant_reviewed_against_gold_and_context",
+    "review_note": "Context contains no gold evidence; although the retrieved top-3 includes gold evidence, the 800-character packing budget excluded it."
+  },
+  {
+    "query_id": "q20",
+    "configuration": "baseline_bm25_budget800",
+    "context_grade": 0,
+    "evidence_in_context": false,
+    "evidence_in_top3": true,
+    "context_chunk_ids": [
+      "hust-student-handbook-2026_p14_para_4"
+    ],
+    "review_status": "assistant_reviewed_against_gold_and_context",
+    "review_note": "Context contains no gold evidence; although the retrieved top-3 includes gold evidence, the 800-character packing budget excluded it."
+  }
+]

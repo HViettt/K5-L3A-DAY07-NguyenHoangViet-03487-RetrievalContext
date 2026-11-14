@@ -1,0 +1,579 @@
+[
+  {
+    "query_id": "q16",
+    "split": "test",
+    "question": "Khoa Ngoại ngữ có tổng cộng bao nhiêu cán bộ và có bao nhiêu Tiến sĩ?",
+    "status": "answered",
+    "answer": "Khoa Ngoại ngữ hiện có tổng cộng 96 cán bộ, trong đó có 03 Tiến sĩ [hust-student-handbook-2026_p35_para_0].",
+    "citations": [
+      "hust-student-handbook-2026_p35_para_0"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Khoa Ngoại ngữ có tổng cộng bao nhiêu cán bộ và có bao nhiêu Tiến sĩ?",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust-student-handbook-2026_p35_para_0",
+            "source_id": "hust-student-handbook-2026",
+            "source": "data/so_tay_sinh_vien_2026.pdf",
+            "page": 35,
+            "text": "68\nKHOA\nNGOẠI NGỮ\nFACULTY OF FOREIGN LANGUAGES\nCÁN BỘ\nGIẢNG VIÊN\nĐội ngũ cán bộ hiện nay gồm 96 cán bộ,\ntrong đó có 03 Tiến sỹ, 08 Nghiên cứu\nsinh, 62 Thạc sỹ, 02 giáo viên nước ngoài,\n20 Giảng viên chính, 13 cán bộ đang tham\ngia các khoá đào tạo Thạc sỹ và Tiến sỹ ở\nnước ngoài. Văn phòng: M312-C7\nhttp://sofl.hust.edu.vn\nsofl@hust.edu.vn\n024 38692201\nThông tin\nchi tiết\nxem tại đây\nKhoa Ngoại ngữ, Đại học Bách khoa Hà Nội là cơ sở đào tạo, nghiên cứu khoa học về ngôn ngữvăn hóa cung cấp nguồn nhân lực chất lượng cao, giỏi chuyên môn, thành thạo ngoại ngữ và\nứng dụng công nghệ thông tin cho thị trường lao động trong nước và quốc tế với tầm nhìn là Trở\nthành một đơn vị đào tạo v à nghiên cứu trong lĩnh vự c ngoại ngữ chuyên ngành c ó uy tín trên\nphạm vi cả nước.",
+            "metadata": {
+              "category": "gioi_thieu_vien_khoa",
+              "char_count": 857,
+              "physical_page": 35,
+              "chunk_type": "by_paragraph"
+            },
+            "score": 19.1468,
+            "strategy": "bm25"
+          },
+          {
+            "id": "hust-student-handbook-2026_p34_para_0",
+            "source_id": "hust-student-handbook-2026",
+            "source": "data/so_tay_sinh_vien_2026.pdf",
+            "page": 34,
+            "text": "66\nKHOA\nVẬT LÝ KỸ THUẬT\nFACULTY OF ENGINEERING PHYSICS\nCÁN BỘ\nGIẢNG VIÊN\nBAN CỐ VẤN\nHỌC TẬP\nVăn phòng: C9-102\nTổng số cán bộ, giảng viên của Khoa là 74\nngười, trong đó có 2 Giáo sư, 18 Phó Giáo\nsư, 44 Tiến sĩ, 25 Thạc sĩ. C9 - 102\nhttp://sep.hust.edu.vn\nsep@hust.edu.vn\nsep@hust.edu.vn\n0906508538\n024 38693350\nThông tin\nchi tiết\nxem tại đây\nKhoa Vật lý kỹ thuật, Đại học Bách khoa Hà Nội, phụ tr ách 03 chương trình đào tạo: V ật lý kỹ\nthuật (PH1), Kỹ thuật hạt nhân (PH2) và Vật lý y khoa (PH3). Cơ cấu tổ chức của Khoa hiện nay\nbao gồm 1 Văn phòng, 1 Trung tâm thí nghiệm – thực hành V ật lý và 6 nhóm chuyên môn (Vật\nlý đại cương, Vật lý lý thuyết, Vật lý và Vật liệu điện tử, Vật lý tin học và ứng dụng, Quang họcquang điện tử, Kỹ thuật hạt nhân - Vật lý y khoa).",
+            "metadata": {
+              "category": "gioi_thieu_vien_khoa",
+              "char_count": 2023,
+              "physical_page": 34,
+              "chunk_type": "by_paragraph"
+            },
+            "score": 16.8053,
+            "strategy": "bm25"
+          },
+          {
+            "id": "hust-student-handbook-2026_p31_para_0",
+            "source_id": "hust-student-handbook-2026",
+            "source": "data/so_tay_sinh_vien_2026.pdf",
+            "page": 31,
+            "text": "60\nTRƯỜNG\nĐIỆN - ĐIỆN TỬ\nSCHOOL OF ELECTRICAL AND ELECTRONICS ENGINEERING\nCÁN BỘ\nGIẢNG VIÊN\nBAN CỐ VẤN\nHỌC TẬP\nBao gồm 4 khoa, 1 trung tâm đào tạo\nthực hành & 1 viện nghiên cứu. 235 CB giảng viên, trong đó có 3 Giáo sư,\n52 Phó giáo sư, 106 Tiến sĩ. Hầu hết là\ncác giảng viên được đào tạo bài bản tại\ncác nước tiên tiến trên thế giới. Ngoài ra, Trường còn có 1 đội ngũ giảng\nviên thỉnh giảng, trợ giảng đông đảo đến\ntừ các cơ sở giáo dục quốc tế, các doanh\nnghiệp công nghiệp là đối tác thân thiết.",
+            "metadata": {
+              "category": "gioi_thieu_vien_khoa",
+              "char_count": 2507,
+              "physical_page": 31,
+              "chunk_type": "by_paragraph"
+            },
+            "score": 14.9191,
+            "strategy": "bm25"
+          }
+        ],
+        "context": "[hust-student-handbook-2026_p35_para_0 | data/so_tay_sinh_vien_2026.pdf | page 35]\n68\nKHOA\nNGOẠI NGỮ\nFACULTY OF FOREIGN LANGUAGES\nCÁN BỘ\nGIẢNG VIÊN\nĐội ngũ cán bộ hiện nay gồm 96 cán bộ,\ntrong đó có 03 Tiến sỹ, 08 Nghiên cứu\nsinh, 62 Thạc sỹ, 02 giáo viên nước ngoài,\n20 Giảng viên chính, 13 cán bộ đang tham\ngia các khoá đào tạo Thạc sỹ và Tiến sỹ ở\nnước ngoài. Văn phòng: M312-C7\nhttp://sofl.hust.edu.vn\nsofl@hust.edu.vn\n024 38692201\nThông tin\nchi tiết\nxem tại đây\nKhoa Ngoại ngữ, Đại học Bách khoa Hà Nội là cơ sở đào tạo, nghiên cứu khoa học về ngôn ngữvăn hóa cung cấp nguồn nhân lực chất lượng cao, giỏi chuyên môn, thành thạo ngoại ngữ và\nứng dụng công nghệ thông tin cho thị trường lao động trong nước và quốc tế với tầm nhìn là Trở\nthành một đơn vị đào tạo v à nghiên cứu trong lĩnh vự c ngoại ngữ chuyên ngành c ó uy tín trên\nphạm vi cả nước.\n\n[hust-student-handbook-2026_p34_para_0 | data/so_tay_sinh_vien_2026.pdf | page 34]\n66\nKHOA\nVẬT LÝ KỸ THUẬT\nFACULTY OF ENGINEERING PHYSICS\nCÁN BỘ\nGIẢNG VIÊN\nBAN CỐ VẤN\nHỌC TẬP\nVăn phòng: C9-102\nTổng số cán bộ, giảng viên của Khoa là 74\nngười, trong đó có 2 Giáo sư, 18 Phó Giáo\nsư, 44 Tiến sĩ, 25 Thạc sĩ. C9 - 102\nhttp://sep.hust.edu.vn\nsep@hust.edu.vn\nsep@hust.edu.vn\n0906508538\n024 38693350\nThông tin\nchi tiết\nxem tại đây\nKhoa Vật lý kỹ thuật, Đại học Bách khoa Hà Nội, phụ tr ách 03 chương trình đào tạo: V ật lý kỹ\nthuật (PH1), Kỹ thuật hạt nhân (PH2) và Vật lý y khoa (PH3). Cơ cấu tổ chức của Khoa hiện nay\nbao gồm 1 Văn phòng, 1 Trung tâm thí nghiệm – thực hành V ật lý và 6 nhóm chuyên môn (Vật\nlý đại cương, Vật lý lý thuyết, Vật lý và Vật liệu điện tử, Vật lý tin học và ứng dụng, Quang họcquang điện tử, Kỹ thuật hạt nhân - Vật lý y khoa).",
+        "context_ids": [
+          "hust-student-handbook-2026_p35_para_0",
+          "hust-student-handbook-2026_p34_para_0"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 13611.2,
+    "controller": "GeminiController",
+    "model": "gemini-3.6-flash",
+    "usage": {
+      "prompt_tokens": 1118,
+      "output_tokens": 81,
+      "total_tokens": 1438
+    },
+    "cost_usd": null,
+    "provider_error_type": null,
+    "provider_error_code": null
+  },
+  {
+    "query_id": "q17",
+    "split": "test",
+    "question": "Khi lái xe cơ giới như xe máy hoặc ô tô vào khuôn viên trường, sinh viên phải tuân thủ điều gì?",
+    "status": "answered",
+    "answer": "Khi đi xe máy, ô tô (hoặc xe đạp) vào trường, sinh viên phải lưu ý giảm tốc độ, thận trọng quan sát xung quanh và gửi xe đúng nơi quy định. Lưu ý xe taxi không được vào trường [hust-student-handbook-2026_p5_para_0].",
+    "citations": [
+      "hust-student-handbook-2026_p5_para_0"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Khi lái xe cơ giới như xe máy hoặc ô tô vào khuôn viên trường, sinh viên phải tuân thủ điều gì?",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust-student-handbook-2026_p5_para_0",
+            "source_id": "hust-student-handbook-2026",
+            "source": "data/so_tay_sinh_vien_2026.pdf",
+            "page": 5,
+            "text": "8 9\n1\nQUY ĐỊNH\nSINH VIÊN CẦN LƯU Ý\nSinh viên đến trường phải mang theo thẻ sinh viên, trang phục\ngọn gàng phù hợp với văn hóa Việt Nam và sự nghiêm túc của\ntrường đại học. Trường hợp đi xe đạp, xe máy, ô tô vào trường phải lưu ý giảm tốc\nđộ, thận trọng quan sát xung quanh và gửi xe đúng nơi quy định. Xe taxi không được vào trường. Không được tự ý mang tài sản của trường ra ngoài khuôn viên\ntrường. Sau 18h00 hàng ngày, không được tự ý tụ tập ở các khu vực công\ncộng thuộc khuôn viên của trường. Mọi hoạt động văn hoá, văn\nnghệ, thể dục, thể thao tổ chức trong trường phải được sự đồng\ný cho phép bằng văn bản của Nhà trường. Không tự ý tổ chức các hoạt động quảng cáo, dịch vụ hoặc tổ\nchức đánh bạc trong khuôn viên trường dưới mọi hình thức.",
+            "metadata": {
+              "category": "quy_che_quy_dinh",
+              "char_count": 1360,
+              "physical_page": 5,
+              "chunk_type": "by_paragraph"
+            },
+            "score": 30.91,
+            "strategy": "bm25"
+          },
+          {
+            "id": "hust-student-handbook-2026_p38_para_2",
+            "source_id": "hust-student-handbook-2026",
+            "source": "data/so_tay_sinh_vien_2026.pdf",
+            "page": 38,
+            "text": "01\n02\nỨNG XỬ\nKHI SỬ DỤNG THANG MÁY &\nNHÀ ĐỂ XE\nKhi sử dụng thang máy\n- Khi vào: Xếp hàng bên phải, đợi mọi người trong thang ra hết rồi người bên ngoài\nmới lần lượt bước vào thang máy. - Khi ra: Lần lượt ra thang máy phía bên phải, nhường phụ nữ có thai, người cao\ntuổi và khách đến thăm trường đi trước. - Không chen lấn, xô đẩy khi ra – vào thang máy. Không gọi điện thoại, không nói\nchuyện to, không bàn công việc trong thang máy. Khi vào nhà gửi xe\nNhằm nâng cao chất lượng dịch vụ phục vụ sinh viên. từ tháng 5/2019 Nhà trường\ntriển khai hệ thống trông giữ xe tích hợp trong thẻ sinh viên. Để đảm bảo hiệu quả,\nngười học có nhu cầu gửi xe:\n- Nên đăng ký dịch vụ theo tháng, để không mất thời gian trả phí gửi xe mỗi lần.",
+            "metadata": {
+              "category": "gioi_thieu_vien_khoa",
+              "char_count": 2374,
+              "physical_page": 38,
+              "chunk_type": "by_paragraph"
+            },
+            "score": 21.4382,
+            "strategy": "bm25"
+          },
+          {
+            "id": "hust-student-handbook-2026_p38_para_3",
+            "source_id": "hust-student-handbook-2026",
+            "source": "data/so_tay_sinh_vien_2026.pdf",
+            "page": 38,
+            "text": "Nếu gửi xe vé ngày, cần chuẩn bị tiền trả thuận tiện nhất để trả phí, tránh gây ùn\nứ tại nhà gửi xe;\n- Nên đi sớm hơn thời gian vào lớp từ 15 đến 20 phút trước khi vào lớp, hội họp;\n- Tuân thủ quy định xếp hàng, đi đúng làn khi ra vào nhà gửi xe;\n- Xếp xe theo hàng lối theo quy định. 01\n02",
+            "metadata": {
+              "category": "gioi_thieu_vien_khoa",
+              "char_count": 2374,
+              "physical_page": 38,
+              "chunk_type": "by_paragraph"
+            },
+            "score": 20.0328,
+            "strategy": "bm25"
+          }
+        ],
+        "context": "[hust-student-handbook-2026_p5_para_0 | data/so_tay_sinh_vien_2026.pdf | page 5]\n8 9\n1\nQUY ĐỊNH\nSINH VIÊN CẦN LƯU Ý\nSinh viên đến trường phải mang theo thẻ sinh viên, trang phục\ngọn gàng phù hợp với văn hóa Việt Nam và sự nghiêm túc của\ntrường đại học. Trường hợp đi xe đạp, xe máy, ô tô vào trường phải lưu ý giảm tốc\nđộ, thận trọng quan sát xung quanh và gửi xe đúng nơi quy định. Xe taxi không được vào trường. Không được tự ý mang tài sản của trường ra ngoài khuôn viên\ntrường. Sau 18h00 hàng ngày, không được tự ý tụ tập ở các khu vực công\ncộng thuộc khuôn viên của trường. Mọi hoạt động văn hoá, văn\nnghệ, thể dục, thể thao tổ chức trong trường phải được sự đồng\ný cho phép bằng văn bản của Nhà trường. Không tự ý tổ chức các hoạt động quảng cáo, dịch vụ hoặc tổ\nchức đánh bạc trong khuôn viên trường dưới mọi hình thức.\n\n[hust-student-handbook-2026_p38_para_2 | data/so_tay_sinh_vien_2026.pdf | page 38]\n01\n02\nỨNG XỬ\nKHI SỬ DỤNG THANG MÁY &\nNHÀ ĐỂ XE\nKhi sử dụng thang máy\n- Khi vào: Xếp hàng bên phải, đợi mọi người trong thang ra hết rồi người bên ngoài\nmới lần lượt bước vào thang máy. - Khi ra: Lần lượt ra thang máy phía bên phải, nhường phụ nữ có thai, người cao\ntuổi và khách đến thăm trường đi trước. - Không chen lấn, xô đẩy khi ra – vào thang máy. Không gọi điện thoại, không nói\nchuyện to, không bàn công việc trong thang máy. Khi vào nhà gửi xe\nNhằm nâng cao chất lượng dịch vụ phục vụ sinh viên. từ tháng 5/2019 Nhà trường\ntriển khai hệ thống trông giữ xe tích hợp trong thẻ sinh viên. Để đảm bảo hiệu quả,\nngười học có nhu cầu gửi xe:\n- Nên đăng ký dịch vụ theo tháng, để không mất thời gian trả phí gửi xe mỗi lần.",
+        "context_ids": [
+          "hust-student-handbook-2026_p5_para_0",
+          "hust-student-handbook-2026_p38_para_2"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 12884.93,
+    "controller": "GeminiController",
+    "model": "gemini-3.6-flash",
+    "usage": {
+      "prompt_tokens": 961,
+      "output_tokens": 103,
+      "total_tokens": 1391
+    },
+    "cost_usd": null,
+    "provider_error_type": null,
+    "provider_error_code": null
+  },
+  {
+    "query_id": "q18",
+    "split": "test",
+    "question": "Mức điểm rèn luyện trong khoảng nào thì được phân loại rèn luyện đạt loại Xuất sắc và loại Tốt?",
+    "status": "answered",
+    "answer": "Mức điểm rèn luyện được phân loại như sau:\n- Loại Xuất sắc: Từ 90 điểm đến 100 điểm [hust-student-handbook-2026_p10_para_1].\n- Loại Tốt: Từ 80 điểm đến 89 điểm [hust-student-handbook-2026_p10_para_1].",
+    "citations": [
+      "hust-student-handbook-2026_p10_para_1"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Mức điểm rèn luyện trong khoảng nào thì được phân loại rèn luyện đạt loại Xuất sắc và loại Tốt?",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust-student-handbook-2026_p10_para_1",
+            "source_id": "hust-student-handbook-2026",
+            "source": "data/so_tay_sinh_vien_2026.pdf",
+            "page": 10,
+            "text": "2. Kết quả đánh giá rèn luyện được sử dụng trong việc xét duyệt học bổng, xét khen thưởng, xét\ntham gia các hoạt động giao lưu, trao đổi sinh viên quốc tế.\n\n3. Kết quả đánh giá rèn luyện toàn khóa học của sinh viên được cấp trong hồ sơ tốt nghiệp của\nsinh viên.\n\n4. Sinh viên không thực hiện tự đánh giá kết quả rèn luyện, không cung cấp minh chứng và không\ncó lý do chính đáng sau khi đã được thông báo, nhắc nhở thì được xem xét xếp loại rèn luyện ở\nmức yếu trong học kỳ tương ứng.\nKết quả rèn luyện được phân loại như sau:\n- Từ 90 điểm đến 100 điểm: loại xuất sắc;\n- Từ 80 điểm đến 89 điểm: loại tốt;\n- Từ 70 điểm đến 79 điểm: loại khá;\n\n1. Công bố hoạt động: Các đơn vị công khai\nkế hoạch hoạt động trên Cổng thông tin sinh\nviên hoặc các kênh thông tin chính thống để\nsinh viên đăng ký tham gia.",
+            "metadata": {
+              "category": "diem_ren_luyen",
+              "char_count": 4569,
+              "physical_page": 10,
+              "chunk_type": "by_paragraph"
+            },
+            "score": 29.9494,
+            "strategy": "bm25"
+          },
+          {
+            "id": "hust-student-handbook-2026_p11_para_9",
+            "source_id": "hust-student-handbook-2026",
+            "source": "data/so_tay_sinh_vien_2026.pdf",
+            "page": 11,
+            "text": "5.3.3 Đạt giải trong các cuộc thi chính thức cấp Đại học MC 10\n\n5.3.4 Được khen thưởng bằng khen, huy chương tương đương cấp Bộ trở lên MC 10\n\n5.3.5 Đạt thành tích trong NCKH sinh viên, cuộc thi khoa học kỹ thuật, sáng kiến cải tiến kỹ thuật khởi MC 8\n\n5.3.6 Đạt danh hiệu \"Sinh viên 5 tốt\" từ cấp Đại học trở lên MC 8\n\n5.3.7 Có kết quả học tập và rèn luyện kỳ trước đó đạt mức xuất sắc (GPA ≥ 3.6, RL ≥ 90) trở lên. * 6\n\n5.3.8 Có kết quả học tập và rèn luyện kỳ trước đó đạt mức Giỏi (GPA ≥ 3.2, RL ≥ 80) trở lên. * 4\n100\nII Sinh viên bị trừ điểm nếu vi phạm các quy định sau đây\n1 Vi phạm trong học tập\n\n6.1.1 Vi phạm quy chế thi từ cảnh cáo trở lên * -10\n\n6.1.2 Bị kỷ luật khi thi hộ * -20\n2 Vi phạm trong rèn luyện\n\n6.2.1 Vi phạm Quy tắc ứng xử văn hóa * -10",
+            "metadata": {
+              "category": "diem_ren_luyen",
+              "char_count": 7545,
+              "physical_page": 11,
+              "chunk_type": "by_paragraph"
+            },
+            "score": 21.0687,
+            "strategy": "bm25"
+          },
+          {
+            "id": "hust-student-handbook-2026_p16_para_0",
+            "source_id": "hust-student-handbook-2026",
+            "source": "data/so_tay_sinh_vien_2026.pdf",
+            "page": 16,
+            "text": "30 31\nHỌC BỔNG\nKHUYẾN KHÍCH HỌC TẬP\nA\nGPA ≥ 3.6\nVÀ ĐIỂM RÈN LUYỆN\nHỌC KỲ ≥ 90 ĐIỂM\nHọc bổng loại xuất sắc\nBằng 1.5 lần mức học\nbổng loại khá\nLƯU Ý: KHÔNG XÉT CẤP HỌC BỔNG\nĐỐI VỚI SV THUỘC MỘT TRONG CÁC TRƯỜNG HỢP SAU\na. Chịu hình thức kỷ luật từ mức khiển trách trở lên tại\nthời điểm xét học bổng;\nb. Đăng ký học ít nhất hơn 15 tín chỉ (kể cả các học\nphần không tính điểm GPA) tại học kỳ lấy điểm xét cấp\nhọc bổng, ngoại trừ học kỳ 1 năm học thứ nhất. c.",
+            "metadata": {
+              "category": "diem_ren_luyen",
+              "char_count": 1719,
+              "physical_page": 16,
+              "chunk_type": "by_paragraph"
+            },
+            "score": 20.6988,
+            "strategy": "bm25"
+          }
+        ],
+        "context": "[hust-student-handbook-2026_p10_para_1 | data/so_tay_sinh_vien_2026.pdf | page 10]\n2. Kết quả đánh giá rèn luyện được sử dụng trong việc xét duyệt học bổng, xét khen thưởng, xét\ntham gia các hoạt động giao lưu, trao đổi sinh viên quốc tế.\n\n3. Kết quả đánh giá rèn luyện toàn khóa học của sinh viên được cấp trong hồ sơ tốt nghiệp của\nsinh viên.\n\n4. Sinh viên không thực hiện tự đánh giá kết quả rèn luyện, không cung cấp minh chứng và không\ncó lý do chính đáng sau khi đã được thông báo, nhắc nhở thì được xem xét xếp loại rèn luyện ở\nmức yếu trong học kỳ tương ứng.\nKết quả rèn luyện được phân loại như sau:\n- Từ 90 điểm đến 100 điểm: loại xuất sắc;\n- Từ 80 điểm đến 89 điểm: loại tốt;\n- Từ 70 điểm đến 79 điểm: loại khá;\n\n1. Công bố hoạt động: Các đơn vị công khai\nkế hoạch hoạt động trên Cổng thông tin sinh\nviên hoặc các kênh thông tin chính thống để\nsinh viên đăng ký tham gia.\n\n[hust-student-handbook-2026_p11_para_9 | data/so_tay_sinh_vien_2026.pdf | page 11]\n5.3.3 Đạt giải trong các cuộc thi chính thức cấp Đại học MC 10\n\n5.3.4 Được khen thưởng bằng khen, huy chương tương đương cấp Bộ trở lên MC 10\n\n5.3.5 Đạt thành tích trong NCKH sinh viên, cuộc thi khoa học kỹ thuật, sáng kiến cải tiến kỹ thuật khởi MC 8\n\n5.3.6 Đạt danh hiệu \"Sinh viên 5 tốt\" từ cấp Đại học trở lên MC 8\n\n5.3.7 Có kết quả học tập và rèn luyện kỳ trước đó đạt mức xuất sắc (GPA ≥ 3.6, RL ≥ 90) trở lên. * 6\n\n5.3.8 Có kết quả học tập và rèn luyện kỳ trước đó đạt mức Giỏi (GPA ≥ 3.2, RL ≥ 80) trở lên. * 4\n100\nII Sinh viên bị trừ điểm nếu vi phạm các quy định sau đây\n1 Vi phạm trong học tập\n\n6.1.1 Vi phạm quy chế thi từ cảnh cáo trở lên * -10\n\n6.1.2 Bị kỷ luật khi thi hộ * -20\n2 Vi phạm trong rèn luyện\n\n6.2.1 Vi phạm Quy tắc ứng xử văn hóa * -10",
+        "context_ids": [
+          "hust-student-handbook-2026_p10_para_1",
+          "hust-student-handbook-2026_p11_para_9"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 14532.57,
+    "controller": "GeminiController",
+    "model": "gemini-3.6-flash",
+    "usage": {
+      "prompt_tokens": 1039,
+      "output_tokens": 127,
+      "total_tokens": 1632
+    },
+    "cost_usd": null,
+    "provider_error_type": null,
+    "provider_error_code": null
+  },
+  {
+    "query_id": "q19",
+    "split": "test",
+    "question": "Trong mục học bổng và an sinh xã hội, Học bổng Trần Đại Nghĩa được xét và cấp với tần suất như thế nào?",
+    "status": "answered",
+    "answer": "Học bổng Trần Đại Nghĩa được xét, cấp theo học kỳ, mỗi học kỳ xét 01 lần vào đầu học kỳ [hust-student-handbook-2026_p17_para_0].",
+    "citations": [
+      "hust-student-handbook-2026_p17_para_0"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong mục học bổng và an sinh xã hội, Học bổng Trần Đại Nghĩa được xét và cấp với tần suất như thế nào?",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust-student-handbook-2026_p17_para_0",
+            "source_id": "hust-student-handbook-2026",
+            "source": "data/so_tay_sinh_vien_2026.pdf",
+            "page": 17,
+            "text": "32 33\nHỌC BỔNG\nTRẦN ĐẠI NGHĨA\nĐỐI TƯỢNG XÉT CẤP HỌC BỔNG\nMỤC ĐÍCH CỦA HỌC BỔNG\nMỨC HỌC BỔNG\nHọc bổng Trần Đại Nghĩa là Học bổng của ĐHBK Hà Nội xét cấp cho sinh viên có hoàn cảnh kinh\ntế gia đình đặc biệt khó khăn (hộ nghèo, hộ cận nghèo hoặc hộ có hoàn cảnh kinh tế đặc biệt khó\nkhăn khác), có kết quả học tập và rèn luyện tốt. Học bổng Trần Đại Nghĩa có 2 mức tương ứng với 50% và 100% học phí sinh viên phải đóng\ntrong học kỳ xét, cấp học bổng. NGUYÊN TẮC XÉT, CẤP HỌC BỔNG TRẦN ĐẠI NGHĨA\nHọc bổng Trần Đại Nghĩa được xét, cấp theo học kỳ, mỗi học kỳ xét 01 lần vào đầu học kỳ. Thực hiện trách nhiệm của ĐHBKHN đối với xã\nhội trong công tác đào tạo nguồn nhân lực chất\nlượng cao phục vụ cho quá trình công nghiệp\nhóa, hiện đại hóa đất nước. Học bổng vinh dự mang tên GS.",
+            "metadata": {
+              "category": "hoc_bong_an_sinh",
+              "char_count": 3075,
+              "physical_page": 17,
+              "chunk_type": "by_paragraph"
+            },
+            "score": 33.1932,
+            "strategy": "bm25"
+          },
+          {
+            "id": "hust-student-handbook-2026_p17_para_1",
+            "source_id": "hust-student-handbook-2026",
+            "source": "data/so_tay_sinh_vien_2026.pdf",
+            "page": 17,
+            "text": "Trần Đại Nghĩa\n(1913 – 1997) - Giáo sư, kỹ sư quân sự, nhà bác học,\nTướng lĩnh Quân đội nhân dân Việt Nam. Hỗ trợ cho những sinh viên của Trường có hoàn\ncảnh khó khăn, có ý chí, nghị lực vươn lên trong\nhọc tập. Thu hút những học sinh xuất sắc vào học tại\nĐHBKHN. Không xét, cấp học bổng Trần Đại Nghĩa cho những sinh viên không đăng ký học tập tại thời\nđiểm xét, cấp học bổng. Không xét, cấp học bổng Trần Đại Nghĩa cho những sinh viên đang trong thời gian bị kỷ luật\ntừ mức cảnh cáo trở lên. Không xét, cấp học bổng Trần Đại Nghĩa cho những sinh viên đã được nhận học bổng KKHT\nhoặc học bổng tài trợ trong học kỳ xét, cấp học bổng Trần Đại Nghĩa. Không xét, cấp học bổng Trần Đại Nghĩa cho sinh viên diện chế độ chính sách được miễn, giảm\nhọc phí theo quy định của Nhà nước.",
+            "metadata": {
+              "category": "hoc_bong_an_sinh",
+              "char_count": 3075,
+              "physical_page": 17,
+              "chunk_type": "by_paragraph"
+            },
+            "score": 29.0229,
+            "strategy": "bm25"
+          },
+          {
+            "id": "hust-student-handbook-2026_p18_para_1",
+            "source_id": "hust-student-handbook-2026",
+            "source": "data/so_tay_sinh_vien_2026.pdf",
+            "page": 18,
+            "text": "Hội đồng chấm ĐATN đánh giá khả năng, mức độ ứng dụng đề tài ĐATN tại cơ sở người học\nđăng ký triển khai áp dụng (theo mẫu Phụ lục III). Điểm đánh giá của Hội đồng là điểm trung\nbình cộng của các thành viên trong Hội đồng. Kết thúc thời gian chấm ĐATN của toàn Đại học, Ban Công tác sinh viên tổng hợp danh sách\nngười học đăng ký xét học bổng và trình Hội đồng xét, cấp học bổng họp xét. Ban Công tác sinh viên trình Giám đốc đại học ra quyết định cấp học bổng cho người học đủ\nđiều kiện được nhận học bổng\nThực hiện trách nhiệm của Đại học Bách khoa\nHà Nội đối với xã hội trong việc nâng cao chất\nlượng, hiệu quả kinh doanh, sản xuất, chất\nlượng các dịch vụ an sinh xã hội, góp phần đẩy\nmạnh quá trình công nghiệp hóa, hiện đại hóa\nđất nước.",
+            "metadata": {
+              "category": "quy_che_quy_dinh",
+              "char_count": 2754,
+              "physical_page": 18,
+              "chunk_type": "by_paragraph"
+            },
+            "score": 21.8268,
+            "strategy": "bm25"
+          }
+        ],
+        "context": "[hust-student-handbook-2026_p17_para_0 | data/so_tay_sinh_vien_2026.pdf | page 17]\n32 33\nHỌC BỔNG\nTRẦN ĐẠI NGHĨA\nĐỐI TƯỢNG XÉT CẤP HỌC BỔNG\nMỤC ĐÍCH CỦA HỌC BỔNG\nMỨC HỌC BỔNG\nHọc bổng Trần Đại Nghĩa là Học bổng của ĐHBK Hà Nội xét cấp cho sinh viên có hoàn cảnh kinh\ntế gia đình đặc biệt khó khăn (hộ nghèo, hộ cận nghèo hoặc hộ có hoàn cảnh kinh tế đặc biệt khó\nkhăn khác), có kết quả học tập và rèn luyện tốt. Học bổng Trần Đại Nghĩa có 2 mức tương ứng với 50% và 100% học phí sinh viên phải đóng\ntrong học kỳ xét, cấp học bổng. NGUYÊN TẮC XÉT, CẤP HỌC BỔNG TRẦN ĐẠI NGHĨA\nHọc bổng Trần Đại Nghĩa được xét, cấp theo học kỳ, mỗi học kỳ xét 01 lần vào đầu học kỳ. Thực hiện trách nhiệm của ĐHBKHN đối với xã\nhội trong công tác đào tạo nguồn nhân lực chất\nlượng cao phục vụ cho quá trình công nghiệp\nhóa, hiện đại hóa đất nước. Học bổng vinh dự mang tên GS.\n\n[hust-student-handbook-2026_p17_para_1 | data/so_tay_sinh_vien_2026.pdf | page 17]\nTrần Đại Nghĩa\n(1913 – 1997) - Giáo sư, kỹ sư quân sự, nhà bác học,\nTướng lĩnh Quân đội nhân dân Việt Nam. Hỗ trợ cho những sinh viên của Trường có hoàn\ncảnh khó khăn, có ý chí, nghị lực vươn lên trong\nhọc tập. Thu hút những học sinh xuất sắc vào học tại\nĐHBKHN. Không xét, cấp học bổng Trần Đại Nghĩa cho những sinh viên không đăng ký học tập tại thời\nđiểm xét, cấp học bổng. Không xét, cấp học bổng Trần Đại Nghĩa cho những sinh viên đang trong thời gian bị kỷ luật\ntừ mức cảnh cáo trở lên. Không xét, cấp học bổng Trần Đại Nghĩa cho những sinh viên đã được nhận học bổng KKHT\nhoặc học bổng tài trợ trong học kỳ xét, cấp học bổng Trần Đại Nghĩa. Không xét, cấp học bổng Trần Đại Nghĩa cho sinh viên diện chế độ chính sách được miễn, giảm\nhọc phí theo quy định của Nhà nước.",
+        "context_ids": [
+          "hust-student-handbook-2026_p17_para_0",
+          "hust-student-handbook-2026_p17_para_1"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 11683.32,
+    "controller": "GeminiController",
+    "model": "gemini-3.6-flash",
+    "usage": {
+      "prompt_tokens": 1056,
+      "output_tokens": 86,
+      "total_tokens": 1482
+    },
+    "cost_usd": null,
+    "provider_error_type": null,
+    "provider_error_code": null
+  },
+  {
+    "query_id": "q20",
+    "split": "test",
+    "question": "Việc cấp lại sổ đoàn, chứng nhận đoàn viên và ký thanh toán ra trường cho sinh viên được thực hiện tại đâu?",
+    "status": "answered",
+    "answer": "Việc cấp lại sổ đoàn, chứng nhận đoàn viên và ký thanh toán ra trường cho sinh viên được thực hiện tại Văn phòng Đoàn Đại học (Phòng C2 - 208) [hust-student-handbook-2026_p27_para_0].",
+    "citations": [
+      "hust-student-handbook-2026_p27_para_0"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Việc cấp lại sổ đoàn, chứng nhận đoàn viên và ký thanh toán ra trường cho sinh viên được thực hiện tại đâu?",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust-student-handbook-2026_p27_para_0",
+            "source_id": "hust-student-handbook-2026",
+            "source": "data/so_tay_sinh_vien_2026.pdf",
+            "page": 27,
+            "text": "01\n02\n03\n04\n05\nGiải quyết các vấn đề liên quan đến Đoàn viên, thanh niên\nbao gồm: Tiếp nhận, chuyển sinh hoạt đoàn.\nPhát triển Đoàn, cấp lại sổ đoàn, chứng nhận đoàn viên, ký\nthanh toán ra trường với Đoàn viên của trường tại Văn\nphòng Đoàn Đại học.\nNhận xét đánh giá đoàn viên theo từng năm học; khen\nthưởng và kỷ luật đoàn viên.\nGiới thiệu Đoàn viên học lớp nhận thức về Đảng, giới thiệu\nĐoàn viên ưu tú để Đảng xem xét kết nạp.\nTổ chức các hoạt động văn hóa, văn nghệ, thể thao, tuyên\ntruyền, tình nguyện, học tập – NCKH theo các ban chuyên\nmôn của Đoàn Đại học hoặc tại Đoàn Trường, Liên Chi\nđoàn các Khoa – Viện & chi đoàn lớp sinh viên.\nC2 - 208\n\n024. 3869 2751\ndtn@hust.edu.vn\nsvbk.hust.edu.vn\n52\nĐOÀN THANH NIÊN\nB8 - 101",
+            "metadata": {
+              "category": "gioi_thieu_vien_khoa",
+              "char_count": 1378,
+              "physical_page": 27,
+              "chunk_type": "by_paragraph"
+            },
+            "score": 32.3764,
+            "strategy": "bm25"
+          },
+          {
+            "id": "hust-student-handbook-2026_p14_para_4",
+            "source_id": "hust-student-handbook-2026",
+            "source": "data/so_tay_sinh_vien_2026.pdf",
+            "page": 14,
+            "text": "Sinh viên diện cử tuyển nộp và nhận giấy xác nhận được hưởng học bổng chính sách tại phòng\n102 – Nhà C1 vào đầu các học kỳ. Việc xác nhận thủ tục vay vốn ngân hàng được thực hiện theo chương trình hỗ trợ sinh viên có\nhoàn cảnh khó khăn (theo Quyết định số 157/QĐ-TTg của Thủ tướng Chính phủ), sinh viên học\ntập các ngành học STEM (theo Quyết định số 29/2025/QĐ-TTg của Thủ tướng Chính phủ). CÁCH THỨC ĐĂNG KÝ CẤP GIẤY VAY VỐN:\nSinh viên đăng nhập vào tài khoản cá nhân trên hệ thống cổng thông tin sinh viên eHUST hoặc\nsổ tay CTSV online để đăng ký nhận giấy vay vốn. Hệ thống sẽ tự động hẹn lịch trả giấy vay vốn tại Ban Công tác Sinh viên. Địa điểm cấp giấy ưu đãi giáo dục: Phòng 102 Nhà C1.",
+            "metadata": {
+              "category": "diem_ren_luyen",
+              "char_count": 4426,
+              "physical_page": 14,
+              "chunk_type": "by_paragraph"
+            },
+            "score": 18.6927,
+            "strategy": "bm25"
+          },
+          {
+            "id": "hust-student-handbook-2026_p23_para_2",
+            "source_id": "hust-student-handbook-2026",
+            "source": "data/so_tay_sinh_vien_2026.pdf",
+            "page": 23,
+            "text": "MỘT SỐ TRANG FANPAGE CHÍNH THỨC\nĐHBK HN: fb.com/dhbkhanoi\nĐào tạo đại học: fb.com/dtdhbkhn\nCông tác sinh viên: fb.com/ctsv.hust.edu.vn\nHướng dẫn cấp lại mật khẩu\nemail (tài khoản Office 365)\ncho sinh viên\n45\nSỔ TAY SINH VIÊN ONLINE\nHUST WORK - CỔNG THÔNG TIN HỖ TRỢ HƯỚNG NGHIỆP,\nVIỆC LÀM SINH VIÊN\nHệ thống sổ tay sinh viên trực tuyến (online): bộ công cụ hỗ trợ việc đánh giá điểm rèn luyện\ncho sinh viên. Hệ thống sổ tay công tác sinh viên gồm website (được liên kết với Cổng thông tin\nwww.ctt.hust.edu.vn) và ứng dụng di động, hỗ trợ các cá nhân có trách nhiệm:\n\n1. Đăng ký và cập nhật thông tin tài khoản;\n\n2. Gán quyền thao tác trên hệ thống cho các cá nhân liên quan;\n\n3. Công bố hoạt động, tiếp nhận đăng ký tham gia nhóm và hoạt động;",
+            "metadata": {
+              "category": "quy_che_quy_dinh",
+              "char_count": 2155,
+              "physical_page": 23,
+              "chunk_type": "by_paragraph"
+            },
+            "score": 18.3284,
+            "strategy": "bm25"
+          }
+        ],
+        "context": "[hust-student-handbook-2026_p27_para_0 | data/so_tay_sinh_vien_2026.pdf | page 27]\n01\n02\n03\n04\n05\nGiải quyết các vấn đề liên quan đến Đoàn viên, thanh niên\nbao gồm: Tiếp nhận, chuyển sinh hoạt đoàn.\nPhát triển Đoàn, cấp lại sổ đoàn, chứng nhận đoàn viên, ký\nthanh toán ra trường với Đoàn viên của trường tại Văn\nphòng Đoàn Đại học.\nNhận xét đánh giá đoàn viên theo từng năm học; khen\nthưởng và kỷ luật đoàn viên.\nGiới thiệu Đoàn viên học lớp nhận thức về Đảng, giới thiệu\nĐoàn viên ưu tú để Đảng xem xét kết nạp.\nTổ chức các hoạt động văn hóa, văn nghệ, thể thao, tuyên\ntruyền, tình nguyện, học tập – NCKH theo các ban chuyên\nmôn của Đoàn Đại học hoặc tại Đoàn Trường, Liên Chi\nđoàn các Khoa – Viện & chi đoàn lớp sinh viên.\nC2 - 208\n\n024. 3869 2751\ndtn@hust.edu.vn\nsvbk.hust.edu.vn\n52\nĐOÀN THANH NIÊN\nB8 - 101\n\n[hust-student-handbook-2026_p14_para_4 | data/so_tay_sinh_vien_2026.pdf | page 14]\nSinh viên diện cử tuyển nộp và nhận giấy xác nhận được hưởng học bổng chính sách tại phòng\n102 – Nhà C1 vào đầu các học kỳ. Việc xác nhận thủ tục vay vốn ngân hàng được thực hiện theo chương trình hỗ trợ sinh viên có\nhoàn cảnh khó khăn (theo Quyết định số 157/QĐ-TTg của Thủ tướng Chính phủ), sinh viên học\ntập các ngành học STEM (theo Quyết định số 29/2025/QĐ-TTg của Thủ tướng Chính phủ). CÁCH THỨC ĐĂNG KÝ CẤP GIẤY VAY VỐN:\nSinh viên đăng nhập vào tài khoản cá nhân trên hệ thống cổng thông tin sinh viên eHUST hoặc\nsổ tay CTSV online để đăng ký nhận giấy vay vốn. Hệ thống sẽ tự động hẹn lịch trả giấy vay vốn tại Ban Công tác Sinh viên. Địa điểm cấp giấy ưu đãi giáo dục: Phòng 102 Nhà C1.",
+        "context_ids": [
+          "hust-student-handbook-2026_p27_para_0",
+          "hust-student-handbook-2026_p14_para_4"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 20282.19,
+    "controller": "GeminiController",
+    "model": "gemini-3.6-flash",
+    "usage": {
+      "prompt_tokens": 999,
+      "output_tokens": 97,
+      "total_tokens": 1380
+    },
+    "cost_usd": null,
+    "provider_error_type": null,
+    "provider_error_code": null
+  },
+  {
+    "query_id": "q_unans_test_01",
+    "split": "test",
+    "question": "Điều kiện và thủ tục để sinh viên được cấp học bổng du học toàn phần tại Đại học Tokyo Nhật Bản là gì?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Điều kiện và thủ tục để sinh viên được cấp học bổng du học toàn phần tại Đại học Tokyo Nhật Bản là gì?",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust-student-handbook-2026_p18_para_1",
+            "source_id": "hust-student-handbook-2026",
+            "source": "data/so_tay_sinh_vien_2026.pdf",
+            "page": 18,
+            "text": "Hội đồng chấm ĐATN đánh giá khả năng, mức độ ứng dụng đề tài ĐATN tại cơ sở người học\nđăng ký triển khai áp dụng (theo mẫu Phụ lục III). Điểm đánh giá của Hội đồng là điểm trung\nbình cộng của các thành viên trong Hội đồng. Kết thúc thời gian chấm ĐATN của toàn Đại học, Ban Công tác sinh viên tổng hợp danh sách\nngười học đăng ký xét học bổng và trình Hội đồng xét, cấp học bổng họp xét. Ban Công tác sinh viên trình Giám đốc đại học ra quyết định cấp học bổng cho người học đủ\nđiều kiện được nhận học bổng\nThực hiện trách nhiệm của Đại học Bách khoa\nHà Nội đối với xã hội trong việc nâng cao chất\nlượng, hiệu quả kinh doanh, sản xuất, chất\nlượng các dịch vụ an sinh xã hội, góp phần đẩy\nmạnh quá trình công nghiệp hóa, hiện đại hóa\nđất nước.",
+            "metadata": {
+              "category": "quy_che_quy_dinh",
+              "char_count": 2754,
+              "physical_page": 18,
+              "chunk_type": "by_paragraph"
+            },
+            "score": 18.789,
+            "strategy": "bm25"
+          },
+          {
+            "id": "hust-student-handbook-2026_p14_para_4",
+            "source_id": "hust-student-handbook-2026",
+            "source": "data/so_tay_sinh_vien_2026.pdf",
+            "page": 14,
+            "text": "Sinh viên diện cử tuyển nộp và nhận giấy xác nhận được hưởng học bổng chính sách tại phòng\n102 – Nhà C1 vào đầu các học kỳ. Việc xác nhận thủ tục vay vốn ngân hàng được thực hiện theo chương trình hỗ trợ sinh viên có\nhoàn cảnh khó khăn (theo Quyết định số 157/QĐ-TTg của Thủ tướng Chính phủ), sinh viên học\ntập các ngành học STEM (theo Quyết định số 29/2025/QĐ-TTg của Thủ tướng Chính phủ). CÁCH THỨC ĐĂNG KÝ CẤP GIẤY VAY VỐN:\nSinh viên đăng nhập vào tài khoản cá nhân trên hệ thống cổng thông tin sinh viên eHUST hoặc\nsổ tay CTSV online để đăng ký nhận giấy vay vốn. Hệ thống sẽ tự động hẹn lịch trả giấy vay vốn tại Ban Công tác Sinh viên. Địa điểm cấp giấy ưu đãi giáo dục: Phòng 102 Nhà C1.",
+            "metadata": {
+              "category": "diem_ren_luyen",
+              "char_count": 4426,
+              "physical_page": 14,
+              "chunk_type": "by_paragraph"
+            },
+            "score": 16.6242,
+            "strategy": "bm25"
+          },
+          {
+            "id": "hust-student-handbook-2026_p17_para_2",
+            "source_id": "hust-student-handbook-2026",
+            "source": "data/so_tay_sinh_vien_2026.pdf",
+            "page": 17,
+            "text": "HỌC BỔNG\nTRAO ĐỔI SINH VIÊN\nĐỐI TƯỢNG HỌC BỔNG MỨC HỌC BỔNG\nHọc bổng xét cấp cho sinh viên xếp\nhạng trình độ năm học từ năm thứ\n3 trở đi có CPA ≥ 3.2, ĐRL tích lũy\n≥ 80, có trình độ ngoại ngữ và môn\nđăng ký học tập/ thực tập phù hợp. Học bổng có giá trị tối đa là 30 triệu đồng/sinh\nviên. Học bổng được cấp bằng vé máy bay khứ hồi và\ngói bảo hiểm du lịch quốc tế Flexi mức Vàng của\ncông ty Bảo hiểm Bảo Việt (học bổng không cấp\nbằng tiền mặt). QUY TRÌNH XÉT, CẤP HỌC BỔNG\nBan Công tác sinh viên thông báo công khai thông tin về các chương trình học bổng trao\nđổi sinh viên trên QLĐT/ eHUST. Sinh viên đăng ký xét học bổng bằng hình thức trực tuyến (online) và nộp hồ sơ văn bản\ngiấy về Ban Công tác sinh viên.",
+            "metadata": {
+              "category": "hoc_bong_an_sinh",
+              "char_count": 3075,
+              "physical_page": 17,
+              "chunk_type": "by_paragraph"
+            },
+            "score": 16.6162,
+            "strategy": "bm25"
+          }
+        ],
+        "context": "[hust-student-handbook-2026_p18_para_1 | data/so_tay_sinh_vien_2026.pdf | page 18]\nHội đồng chấm ĐATN đánh giá khả năng, mức độ ứng dụng đề tài ĐATN tại cơ sở người học\nđăng ký triển khai áp dụng (theo mẫu Phụ lục III). Điểm đánh giá của Hội đồng là điểm trung\nbình cộng của các thành viên trong Hội đồng. Kết thúc thời gian chấm ĐATN của toàn Đại học, Ban Công tác sinh viên tổng hợp danh sách\nngười học đăng ký xét học bổng và trình Hội đồng xét, cấp học bổng họp xét. Ban Công tác sinh viên trình Giám đốc đại học ra quyết định cấp học bổng cho người học đủ\nđiều kiện được nhận học bổng\nThực hiện trách nhiệm của Đại học Bách khoa\nHà Nội đối với xã hội trong việc nâng cao chất\nlượng, hiệu quả kinh doanh, sản xuất, chất\nlượng các dịch vụ an sinh xã hội, góp phần đẩy\nmạnh quá trình công nghiệp hóa, hiện đại hóa\nđất nước.\n\n[hust-student-handbook-2026_p14_para_4 | data/so_tay_sinh_vien_2026.pdf | page 14]\nSinh viên diện cử tuyển nộp và nhận giấy xác nhận được hưởng học bổng chính sách tại phòng\n102 – Nhà C1 vào đầu các học kỳ. Việc xác nhận thủ tục vay vốn ngân hàng được thực hiện theo chương trình hỗ trợ sinh viên có\nhoàn cảnh khó khăn (theo Quyết định số 157/QĐ-TTg của Thủ tướng Chính phủ), sinh viên học\ntập các ngành học STEM (theo Quyết định số 29/2025/QĐ-TTg của Thủ tướng Chính phủ). CÁCH THỨC ĐĂNG KÝ CẤP GIẤY VAY VỐN:\nSinh viên đăng nhập vào tài khoản cá nhân trên hệ thống cổng thông tin sinh viên eHUST hoặc\nsổ tay CTSV online để đăng ký nhận giấy vay vốn. Hệ thống sẽ tự động hẹn lịch trả giấy vay vốn tại Ban Công tác Sinh viên. Địa điểm cấp giấy ưu đãi giáo dục: Phòng 102 Nhà C1.",
+        "context_ids": [
+          "hust-student-handbook-2026_p18_para_1",
+          "hust-student-handbook-2026_p14_para_4"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_ms": 5850.53,
+    "controller": "GeminiController",
+    "model": "gemini-3.6-flash",
+    "usage": {
+      "prompt_tokens": 950,
+      "output_tokens": 23,
+      "total_tokens": 1350
+    },
+    "cost_usd": null,
+    "provider_error_type": null,
+    "provider_error_code": null
+  },
+  {
+    "query_id": "q_unans_test_02",
+    "split": "test",
+    "question": "Quy trình thủ tục đăng ký xin cấp lại biển số xe máy bị mất tại nhà gửi xe trường Bách khoa gồm những bước nào?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Quy trình thủ tục đăng ký xin cấp lại biển số xe máy bị mất tại nhà gửi xe trường Bách khoa gồm những bước nào?",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust-student-handbook-2026_p38_para_2",
+            "source_id": "hust-student-handbook-2026",
+            "source": "data/so_tay_sinh_vien_2026.pdf",
+            "page": 38,
+            "text": "01\n02\nỨNG XỬ\nKHI SỬ DỤNG THANG MÁY &\nNHÀ ĐỂ XE\nKhi sử dụng thang máy\n- Khi vào: Xếp hàng bên phải, đợi mọi người trong thang ra hết rồi người bên ngoài\nmới lần lượt bước vào thang máy. - Khi ra: Lần lượt ra thang máy phía bên phải, nhường phụ nữ có thai, người cao\ntuổi và khách đến thăm trường đi trước. - Không chen lấn, xô đẩy khi ra – vào thang máy. Không gọi điện thoại, không nói\nchuyện to, không bàn công việc trong thang máy. Khi vào nhà gửi xe\nNhằm nâng cao chất lượng dịch vụ phục vụ sinh viên. từ tháng 5/2019 Nhà trường\ntriển khai hệ thống trông giữ xe tích hợp trong thẻ sinh viên. Để đảm bảo hiệu quả,\nngười học có nhu cầu gửi xe:\n- Nên đăng ký dịch vụ theo tháng, để không mất thời gian trả phí gửi xe mỗi lần.",
+            "metadata": {
+              "category": "gioi_thieu_vien_khoa",
+              "char_count": 2374,
+              "physical_page": 38,
+              "chunk_type": "by_paragraph"
+            },
+            "score": 28.1552,
+            "strategy": "bm25"
+          },
+          {
+            "id": "hust-student-handbook-2026_p38_para_3",
+            "source_id": "hust-student-handbook-2026",
+            "source": "data/so_tay_sinh_vien_2026.pdf",
+            "page": 38,
+            "text": "Nếu gửi xe vé ngày, cần chuẩn bị tiền trả thuận tiện nhất để trả phí, tránh gây ùn\nứ tại nhà gửi xe;\n- Nên đi sớm hơn thời gian vào lớp từ 15 đến 20 phút trước khi vào lớp, hội họp;\n- Tuân thủ quy định xếp hàng, đi đúng làn khi ra vào nhà gửi xe;\n- Xếp xe theo hàng lối theo quy định. 01\n02",
+            "metadata": {
+              "category": "gioi_thieu_vien_khoa",
+              "char_count": 2374,
+              "physical_page": 38,
+              "chunk_type": "by_paragraph"
+            },
+            "score": 22.8436,
+            "strategy": "bm25"
+          },
+          {
+            "id": "hust-student-handbook-2026_p6_para_2",
+            "source_id": "hust-student-handbook-2026",
+            "source": "data/so_tay_sinh_vien_2026.pdf",
+            "page": 6,
+            "text": "2\n3\n4\n5\n6\nXem thêm tại đây:\nNHỮNG ĐIỀU SINH VIÊN\nKHÔNG ĐƯỢC LÀM\nLIÊN QUAN ĐẾN CÔNG TÁC ĐÀO TẠO:\nLIÊN QUAN ĐẾN CÔNG TÁC SINH VIÊN:\nQuy chế đào tạo chính quy của nhà trường Quy định về chuẩn trình độ và chuẩn\nngoại ngữ đầu ra các khóa, các chương\ntrình đào tạo\nQuy định về học phí các khóa, các chương\ntrình đào tạo\nThông tin về chương trình đào tạo\nThông tin về thời khóa biểu, lịch thi Thông tin về kết quả học tập\nĐăng ký học tập Thông tin về học phí, công nợ\nThông tin về đồ án tốt nghiệp và xét tốt\nnghiệp\nCác biểu mẫu về học tập\nHướng dẫn gửi câu hỏi thắc mắc đến\nPhòng Đào tạo\nĐăng ký và hỏi đáp các thủ tục hành chính Hướng dẫn thủ tục giải quyết chế độ\nchính sáchQuy định về việc xét cấp học bổng của\nnhà trường (Khuyến khích học tập, Trần\nĐại Nghĩa, Tài trợ, Trao đổi sinh viên, Gắn\nkết quê hương, STEM)\nThông tin về các hoạt động sinh hoạt công\ndân\nThông tin về bảo hiểm y tế dành cho sinh\nviên\nThông tin về học bổng tài trợ dành cho\nsinh viên\nThông tin về các hoạt động ngoại khóa,\nclb sinh viên\nThông tin về các hoạt động hướng nghiệp\nvà tuyển dụng cho sinh viên\nThông tin về các hoạt động hỗ trợ học tập,\ntư vấn tâm lý sinh viên\nĐánh giá điểm rèn luyện sinh viên\nĐăng ký dịch vụ sinh viên (KTX, vé xe,...)\nSinh viên tra cứu trên Quản lý Đào tạo (QLDT)/eHUST, cổng thông tin sinh viên, website của Trường,\nKhoa đào tạo, liên hệ với Ban Đào tạo, văn phòng Trường, Khoa đào tạo hoặc liên hệ với cố vấn học\ntập và quản lý lớp sinh viên.",
+            "metadata": {
+              "category": "quy_che_quy_dinh",
+              "char_count": 2626,
+              "physical_page": 6,
+              "chunk_type": "by_paragraph"
+            },
+            "score": 22.6913,
+            "strategy": "bm25"
+          }
+        ],
+        "context": "[hust-student-handbook-2026_p38_para_2 | data/so_tay_sinh_vien_2026.pdf | page 38]\n01\n02\nỨNG XỬ\nKHI SỬ DỤNG THANG MÁY &\nNHÀ ĐỂ XE\nKhi sử dụng thang máy\n- Khi vào: Xếp hàng bên phải, đợi mọi người trong thang ra hết rồi người bên ngoài\nmới lần lượt bước vào thang máy. - Khi ra: Lần lượt ra thang máy phía bên phải, nhường phụ nữ có thai, người cao\ntuổi và khách đến thăm trường đi trước. - Không chen lấn, xô đẩy khi ra – vào thang máy. Không gọi điện thoại, không nói\nchuyện to, không bàn công việc trong thang máy. Khi vào nhà gửi xe\nNhằm nâng cao chất lượng dịch vụ phục vụ sinh viên. từ tháng 5/2019 Nhà trường\ntriển khai hệ thống trông giữ xe tích hợp trong thẻ sinh viên. Để đảm bảo hiệu quả,\nngười học có nhu cầu gửi xe:\n- Nên đăng ký dịch vụ theo tháng, để không mất thời gian trả phí gửi xe mỗi lần.\n\n[hust-student-handbook-2026_p38_para_3 | data/so_tay_sinh_vien_2026.pdf | page 38]\nNếu gửi xe vé ngày, cần chuẩn bị tiền trả thuận tiện nhất để trả phí, tránh gây ùn\nứ tại nhà gửi xe;\n- Nên đi sớm hơn thời gian vào lớp từ 15 đến 20 phút trước khi vào lớp, hội họp;\n- Tuân thủ quy định xếp hàng, đi đúng làn khi ra vào nhà gửi xe;\n- Xếp xe theo hàng lối theo quy định. 01\n02",
+        "context_ids": [
+          "hust-student-handbook-2026_p38_para_2",
+          "hust-student-handbook-2026_p38_para_3"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_ms": 13356.1,
+    "controller": "GeminiController",
+    "model": "gemini-3.6-flash",
+    "usage": {
+      "prompt_tokens": 844,
+      "output_tokens": 23,
+      "total_tokens": 1252
+    },
+    "cost_usd": null,
+    "provider_error_type": null,
+    "provider_error_code": null
+  }
+]
