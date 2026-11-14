@@ -3,7 +3,7 @@
 - **Họ và tên:** Nguyễn Hoàng Việt
 - **MSSV:** 2A202603487
 - **Lớp:** L3A
-- **Repository:** `K5-L3A-DAY07-03487-NguyenHoangViet-RetrievalContext`
+- **Repository:** `K5-L3A-DAY07-NguyenHoangViet-03487-RetrievalContext`
 
 ## 1. Dữ liệu và benchmark
 
