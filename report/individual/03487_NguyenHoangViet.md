@@ -1,7 +1,7 @@
 # Báo cáo Day 7 — Agentic RAG
 
 - **Họ và tên:** Nguyễn Hoàng Việt
-- **MSSV:** 03487
+- **MSSV:** 2A202603487
 - **Lớp:** L3A
 - **Repository:** `K5-L3A-DAY07-03487-NguyenHoangViet-RetrievalContext`
 
